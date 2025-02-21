@@ -117,7 +117,7 @@ const WhyChooseAndContactForm = () => {
           {/* Why Choose Section */}
           <div className="py-4 relative z-0">
             <h3 className="text-2xl font-semibold text-customBlue mb-2 py-4">
-              Why Choose Us?
+              Why Choose Us? 
             </h3>
             <ul className="space-y-8 text-left text-lg">
               <li className="flex items-center"><FaCheckCircle className="text-customBlue mr-4 text-xl" /> Professional and experienced caregivers</li>
@@ -128,7 +128,7 @@ const WhyChooseAndContactForm = () => {
 	      <li className="flex items-center"><FaHandHoldingHeart className="text-customBlue mr-4 text-xl" /> A focus on improving quality of life</li>
               <li className="flex items-center"><FaClipboardCheck className="text-customBlue mr-4 text-xl" /> Regular health checkups and assessments</li>
               <li className="flex items-center"><FaPhoneAlt className="text-customBlue mr-4 text-xl" /> Quick and easy access to support and services</li>
-              <li className="flex items-center"><FaUserMd className="text-customBlue mr-4 text-xl" /> Expert caregivers with medical training</li>
+              <li className="flex items-center"><FaUserMd className="text-customBlue mr-4 text-xl" /> Expert medical training</li>
               <li className="flex items-center"><FaCalendarCheck className="text-customBlue mr-4 text-xl" /> Flexible scheduling to meet your needs</li>
               <li className="flex items-center"><FaCogs className="text-customBlue mr-4 text-xl" /> Comprehensive range of services</li>
               <li className="flex items-center"><FaUserShield className="text-customBlue mr-4 text-xl" /> Trusted and reliable service</li>
